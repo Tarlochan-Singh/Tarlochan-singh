@@ -26,13 +26,18 @@ Expertise
 Portfolio
 📊 Employee Attendance Analytics Dashboard
 Created a comprehensive dashboard using Power BI for HR at ATLIQ, providing insights into employee attendance patterns.
+
 📈 Sales Performance Analysis
 Analyzed sales data using Python and Excel to identify key trends and factors impacting sales performance.
+
 📊 Data Visualization Projects
 Developed interactive data visualizations using Power BI to communicate complex data insights effectively.
+
 🧠 Leadership Development Program
 Led a team in developing a leadership development program, focusing on enhancing leadership skills and fostering a culture of innovation.
+
 Let's Connect!
+
 📧 Email: tarlochan3199@gmail.com
 
 <!--
